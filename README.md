@@ -24,3 +24,16 @@ In terms of the business model, GameON generates revenue through a combination o
 
 
 Overall, GameON is a powerful and innovative sports app that provides athletes with the tools they need to succeed. By leveraging the latest technologies, including Flutter, Firebase, and Google Cloud Platform, GameON is able to provide a fast, responsive, and secure platform for athletes to connect with coaches, mentors, and other athletes. Whether you're a beginner or an experienced athlete, GameON is the perfect app to help you take your game to the next level.
+
+
+
+
+
+Initial Git Reopository
+https://github.com/Naman-Gayakwad/GameOn-
+
+UX/UI -Figma
+https://www.figma.com/file/QjSWhzPaCaCKcwRoSn81Uv/GFG-App-prototype?node-id=0%3A1&t=Y7FlqMY5gqELyz1N-1
+
+Flow Cart
+https://www.figma.com/file/Ma42oEdDABYhHRN6hCJcZl/GFG?t=Y7FlqMY5gqELyz1N-1
