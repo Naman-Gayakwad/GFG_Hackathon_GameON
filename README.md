@@ -35,5 +35,5 @@ https://github.com/Naman-Gayakwad/GameOn-
 UX/UI -Figma
 https://www.figma.com/file/QjSWhzPaCaCKcwRoSn81Uv/GFG-App-prototype?node-id=0%3A1&t=Y7FlqMY5gqELyz1N-1
 
-Flow Cart
+Flow Chart
 https://www.figma.com/file/Ma42oEdDABYhHRN6hCJcZl/GFG?t=Y7FlqMY5gqELyz1N-1
