@@ -2,6 +2,8 @@
 
 GameON is a powerful mobile app designed for sports enthusiasts who want to connect with coaches, mentors, and other athletes. Built using Flutter and hosted on Google Cloud Platform, GameON offers a range of features and tools that make it easy for athletes to train, compete, and stay up-to-date with the latest sports news and events.
 
+One of the main problems that GameON addresses is the difficulty that athletes face in finding the right coach or mentor to help them improve their skills. With GameON, athletes can create a profile and specify their preferences and interests. Based on this information, the app recommends coaches and mentors who are experts in their respective sports. Athletes can then schedule coaching and mentoring sessions with these experts, and receive personalized feedback and support to help them reach their goals.
+
 
 One of the key features of GameON is its ability to connect athletes with coaches and mentors who are experts in their respective sports. Athletes can create a profile on the app and specify their preferences and interests, which allows them to receive personalized recommendations for coaching and mentoring sessions. The app also includes a real-time messaging system, which makes it easy for athletes to communicate with their coaches and mentors and get the support they need.
 
